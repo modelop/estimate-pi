@@ -4,6 +4,8 @@ import sys
 from random import random
 from operator import add
 
+from typing import List
+
 from pyspark.sql import SparkSession
 
 # modelop.init
